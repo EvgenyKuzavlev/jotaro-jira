@@ -1,0 +1,5 @@
+jira==3.8.0
+pytz==2024.1
+holidays==0.52
+beautifulsoup4==4.12.3
+pyyaml==6.0.1
